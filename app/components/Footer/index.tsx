@@ -5,7 +5,7 @@ import styles from "./Footer.module.scss";
 const Footer: React.FC = () => {
   return (
     <footer className={styles.root}>
-      <a className={styles.root_link} href="https://github.com/vanya1254">
+      <a className={styles.root_link} href="https://github.com/IvanLiapkin">
         <picture className={styles.root_pic}>
           <svg
             height="32px"
@@ -24,7 +24,7 @@ const Footer: React.FC = () => {
           </svg>
         </picture>
       </a>
-      <a className={styles.root_link} href="https://t.me/BiTHek">
+      <a className={styles.root_link} href="https://t.me/IvanLiapkin">
         <picture className={styles.root_pic}>
           <svg
             fill="none"

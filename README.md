@@ -79,14 +79,14 @@ jk/
 
 ## 🌐 Деплой
 
-Проект доступен по следующей ссылке: [vanya1254.github.io/jk](https://vanya1254.github.io/jk/).
+Проект доступен по следующей ссылке: [ivanliapkin.github.io/jk](https://ivanliapkin.github.io/jk/).
 
 ## 🔧 Установка и запуск проекта
 
 1. **Клонирование репозитория**
 
    ```bash
-   git clone https://github.com/vanya1254/jk.git
+   git clone https://github.com/IvanLiapkin/jk.git
    cd jk
    ```
 
@@ -107,8 +107,8 @@ jk/
 
 ## 📦 Артефакты и ссылки
 
-- **GitHub репозиторий**: [Ссылка на репозиторий](https://github.com/vanya1254/jk)
-- **Деплой проекта**: [vanya1254.github.io/jk](https://vanya1254.github.io/jk/)
+- **GitHub репозиторий**: [Ссылка на репозиторий](https://github.com/IvanLiapkin/jk)
+- **Деплой проекта**: [ivanliapkin.github.io/jk](https://ivanliapkin.github.io/jk/)
 
 ## 🧪 Оригинальность
 
